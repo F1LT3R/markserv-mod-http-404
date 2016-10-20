@@ -1,8 +1,9 @@
 {
-  "name": "markserv-mod-http404",
+  "name": "markserv-mod-http-404",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Serves a 404",
+  "main": "mod/http-404.mod.js",
+  "template": "mod/http-404.tpl.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
