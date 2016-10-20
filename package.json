@@ -1,0 +1,11 @@
+{
+  "name": "markserv-mod-http404",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "f1lt3r",
+  "license": "GPL-3.0"
+}
